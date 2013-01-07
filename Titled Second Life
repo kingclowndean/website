@@ -1,0 +1,499 @@
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 7.20
+INFO: display_stats: FPS: 7.20
+INFO: display_stats: FPS: 6.10
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 6.00
+INFO: display_stats: FPS: 5.60
+INFO: display_stats: FPS: 6.00
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 7.10
+INFO: LLAppViewer::idle: Transmitting sessions stats
+INFO: send_stats: Misc Stats: int_1: i315 int_2: i268
+INFO: send_stats: Misc Stats: string_1: '897' string_2: 'Texture Time: 2397.85,
+Total Time: 4050.30'
+INFO: LLViewerStats::addToMessage: STAT: Version: 0.0
+INFO: LLViewerStats::addToMessage: STAT: Vertex Buffers Enabled: 0.0
+INFO: LLViewerStats::addToMessage: STAT: AgentPositionSnaps: Mean = 22.0; StdDev
+ = 189.1; Count = 502
+INFO: ViewerStatsResponder::result: ViewerStatsResponder::result
+INFO: display_stats: FPS: 7.10
+INFO: display_stats: FPS: 6.80
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 7.10
+INFO: display_stats: FPS: 7.00
+INFO: display_stats: FPS: 6.70
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 6.70
+INFO: display_stats: FPS: 7.20
+INFO: display_stats: FPS: 6.80
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 7.10
+INFO: display_stats: FPS: 6.90
+INFO: display_stats: FPS: 6.70
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 7.10
+INFO: display_stats: FPS: 7.10
+INFO: display_stats: FPS: 7.00
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 6.80
+INFO: display_stats: FPS: 7.00
+INFO: display_stats: FPS: 6.20
+INFO: display_stats: MEMORY: 133 MB
+INFO: LLMemory::logMemoryInfo: Current allocated physical memory(KB): 136940
+INFO: LLMemory::logMemoryInfo: Current allocated page size (KB): 678744
+INFO: LLMemory::logMemoryInfo: Current availabe physical memory(KB): 303200
+INFO: LLMemory::logMemoryInfo: Current max usable memory(KB): 440140
+INFO: LLMemory::logMemoryInfo: --- private pool information --
+INFO: LLMemory::logMemoryInfo: Total reserved (KB): 102496
+INFO: LLMemory::logMemoryInfo: Total allocated (KB): 51217
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 7.20
+INFO: display_stats: FPS: 7.10
+INFO: display_stats: FPS: 7.10
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 6.10
+INFO: display_stats: FPS: 5.70
+INFO: display_stats: FPS: 6.00
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 5.70
+INFO: LLInventoryModelBackgroundFetch::backgroundFetch: Inventory fetch complete
+d
+INFO: display_stats: FPS: 5.30
+INFO: display_stats: FPS: 5.70
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 6.50
+INFO: display_stats: FPS: 6.30
+WARNING: LLCore::HttpOpRequest::readCallback: Request body position beyond body
+size.  Aborting request.
+INFO: display_stats: FPS: 6.40
+INFO: LLFloater::closeFloater: Closing floater script_floater
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 392d3436-3933-2d38-3535-382d37343532
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 6.20
+INFO: LLAppViewer::idle: Transmitting sessions stats
+INFO: send_stats: Misc Stats: int_1: i293 int_2: i249
+INFO: send_stats: Misc Stats: string_1: '897' string_2: 'Texture Time: 2452.35,
+Total Time: 4350.31'
+INFO: LLViewerStats::addToMessage: STAT: Version: 0.0
+INFO: LLViewerStats::addToMessage: STAT: Vertex Buffers Enabled: 0.0
+INFO: LLViewerStats::addToMessage: STAT: AgentPositionSnaps: Mean = 22.0; StdDev
+ = 189.1; Count = 502
+INFO: ViewerStatsResponder::result: ViewerStatsResponder::result
+WARNING: `anonymous-namespace'::AssetReportHandler::onCompleted: Successfully de
+livered asset metrics to grid.
+INFO: display_stats: FPS: 6.20
+INFO: display_stats: FPS: 5.80
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 5.40
+INFO: display_stats: FPS: 4.20
+INFO: display_stats: FPS: 5.10
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 4.40
+INFO: display_stats: FPS: 6.00
+INFO: display_stats: FPS: 6.10
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 6.00
+INFO: display_stats: FPS: 5.60
+INFO: display_stats: FPS: 5.90
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 6.00
+INFO: LLFloater::closeFloater: Closing floater script_floater
+INFO: LLFloater::openFloater: Opening floater script_floater
+WARNING: LLAvatarNameResponder::result: LLAvatarNameResponder::result 1 unresolv
+ed ids; expires in 120.0 seconds
+WARNING: LLAvatarNameResponder::result: LLAvatarNameResponder::result failed id
+00000000-0000-0000-0000-000000000000
+INFO: display_stats: FPS: 5.60
+INFO: display_stats: FPS: 6.30
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 392d3436-3933-2d38-3535-382d37343532
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 5.40
+INFO: display_stats: FPS: 5.90
+INFO: display_stats: FPS: 8.70
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 8.40
+INFO: display_stats: FPS: 8.30
+INFO: display_stats: FPS: 7.30
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 5.80
+INFO: display_stats: FPS: 5.80
+WARNING: LLAvatarNameResponder::result: LLAvatarNameResponder::result 1 unresolv
+ed ids; expires in 120.0 seconds
+WARNING: LLAvatarNameResponder::result: LLAvatarNameResponder::result failed id
+00000000-0000-0000-0000-000000000000
+INFO: display_stats: FPS: 5.20
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: display_stats: FPS: 5.70
+INFO: display_stats: FPS: 5.60
+INFO: display_stats: FPS: 5.90
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: LLFloater::closeFloater: Closing floater camera_floater
+INFO: display_stats: FPS: 5.40
+INFO: display_stats: FPS: 4.80
+INFO: LLFloater::openFloater: Opening floater move_floater
+INFO: display_stats: FPS: 5.70
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLIMWellWindow::removeObjectRow: Unable to remove Object Row from the l
+ist, notificationID: 632d6162-3333-2d31-3131-392d62383934
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: LLAppViewer::idle: Transmitting sessions stats
+INFO: send_stats: Misc Stats: int_1: i274 int_2: i233
+INFO: send_stats: Misc Stats: string_1: '897' string_2: 'Texture Time: 2522.29,
+Total Time: 4650.43'
+INFO: LLViewerStats::addToMessage: STAT: Version: 0.0
+INFO: LLViewerStats::addToMessage: STAT: Vertex Buffers Enabled: 0.0
+INFO: LLViewerStats::addToMessage: STAT: AgentPositionSnaps: Mean = 25.5; StdDev
+ = 211.3; Count = 527
+INFO: display_stats: FPS: 7.50
+INFO: ViewerStatsResponder::result: ViewerStatsResponder::result
+INFO: LLFloater::closeFloater: Closing floater script_floater
+INFO: display_stats: FPS: 13.80
+INFO: LLFloater::closeFloater: Closing floater script_floater
+INFO: LLFloater::openFloater: Opening floater script_floater
+INFO: LLFloater::closeFloater: Closing floater script_floater
+INFO: LLFloater::closeFloater: Closing floater script_floater
+WARNING: LLScriptFloaterManager::onRemoveNotification: Invalid notification ID
+INFO: display_stats: FPS: 14.00
+INFO: LLFloater::openFloater: Opening floater floater_my_inventory
+INFO: display_stats: FPS: 3.50
+INFO: FrameWatcher::tick:  slowest framerate for last 600 seconds 3.5
+2013-01-07T09:35:54Z <mem>             Avail Physical KB:       222904
+2013-01-07T09:35:54Z <mem>              Avail Virtual KB:      1057780
+2013-01-07T09:35:54Z <mem>                 Avail page KB:      2110404
+2013-01-07T09:35:54Z <mem>                CommitLimit KB:      5181312
+2013-01-07T09:35:54Z <mem>                 CommitPeak KB:      5078156
+2013-01-07T09:35:54Z <mem>                CommitTotal KB:      3070908
+2013-01-07T09:35:54Z <mem>                   HandleCount:        31771
+2013-01-07T09:35:54Z <mem>             KernelNonpaged KB:        88696
+2013-01-07T09:35:54Z <mem>                KernelPaged KB:        79360
+2013-01-07T09:35:54Z <mem>                KernelTotal KB:       168056
+2013-01-07T09:35:54Z <mem>              Page Fault Count:      3308307
+2013-01-07T09:35:54Z <mem>                   PageSize KB:            4
+2013-01-07T09:35:54Z <mem>              PagefileUsage KB:       677204
+2013-01-07T09:35:54Z <mem>          PeakPagefileUsage KB:       754960
+2013-01-07T09:35:54Z <mem>         PeakWorkingSetSize KB:       292464
+2013-01-07T09:35:54Z <mem>            Percent Memory use:           78
+2013-01-07T09:35:54Z <mem>              PhysicalAvail KB:       222900
+2013-01-07T09:35:54Z <mem>              PhysicalTotal KB:      1037824
+2013-01-07T09:35:54Z <mem>               PrivateUsage KB:       677204
+2013-01-07T09:35:54Z <mem>                  ProcessCount:          107
+2013-01-07T09:35:54Z <mem>     QuotaNonPagedPoolUsage KB:           37
+2013-01-07T09:35:54Z <mem>        QuotaPagedPoolUsage KB:          262
+2013-01-07T09:35:54Z <mem> QuotaPeakNonPagedPoolUsage KB:          955
+2013-01-07T09:35:54Z <mem>     QutaPeakPagedPoolUsage KB:          327
+2013-01-07T09:35:54Z <mem>                SystemCache KB:       167728
+2013-01-07T09:35:54Z <mem>                   ThreadCount:         1152
+2013-01-07T09:35:54Z <mem>             Total Physical KB:      1037824
+2013-01-07T09:35:54Z <mem>              Total Virtual KB:      2097024
+2013-01-07T09:35:54Z <mem>                 Total page KB:      5181312
+2013-01-07T09:35:54Z <mem>             WorkingSetSize KB:       170880
+2013-01-07T09:35:54Z <mem>                     timestamp: 2013-01-07T09:35:54.70
+Z
+
+INFO: display_stats: FPS: 10.10
+INFO: LLInventoryModelBackgroundFetch::backgroundFetch: Inventory fetch complete
+d
+INFO: LLInventoryModelBackgroundFetch::backgroundFetch: Inventory fetch complete
+d
+INFO: display_stats: FPS: 10.10
+WARNING: LLView::getChild: Making dummy class LLUICtrl named "desc" in floater
+INFO: LLFloater::openFloater: Opening floater preview_anim
+INFO: LLFloater::closeFloater: Closing floater floater_my_inventory
+INFO: display_stats: FPS: 15.80
+INFO: display_stats: FPS: 11.40
+INFO: display_stats: FPS: 9.80
+INFO: display_stats: FPS: 15.10
+INFO: display_stats: FPS: 16.20
+INFO: LLFloater::openFloater: Opening floater Map
+INFO: display_stats: FPS: 15.50
+INFO: LLAdvancedCheckInfoDisplay::handleEvent: check shame
+INFO: LLAdvancedCheckInfoDisplay::handleEvent: check shame
+INFO: LLAdvancedCheckInfoDisplay::handleEvent: check shame
+INFO: LLAdvancedCheckInfoDisplay::handleEvent: check shame
+INFO: LLAdvancedCheckInfoDisplay::handleEvent: check shame
+INFO: LLAdvancedCheckInfoDisplay::handleEvent: check shame
+INFO: display_stats: FPS: 15.00
+INFO: display_stats: FPS: 10.80
+INFO: process_crossed_region: process_crossed_region()
+INFO: LLWorld::addRegion: Add region with handle: 1982419465185792 on host 216.8
+2.49.36:12035
+INFO: LLWorld::addRegion: Region exists, removing it
+INFO: LLAppViewer::idle: Kills on unknown objects: 8
+INFO: process_agent_movement_complete: Changing home region to 461568.0:305664.0
+
+INFO: LLAgent::setRegion: Moving agent into region: Barnaby Point located at 216
+.82.49.36:12035
+INFO: LLEnvironmentRequest::doRequest: Requesting region windlight settings via
+https://sim10170.agni.lindenlab.com:12043/cap/6d8f1942-99b0-7d4f-8f5f-69c0474765
+54
+INFO: LLViewerThrottleGroup::sendToSim: Sending throttle settings, total BW 3000
+.0
+INFO: LLVOWLSky::updateGeometry: WL Skydome strips in 2 batches.
+INFO: LLVOWLSky::updateGeometry: completed in 0.35seconds
+INFO: LLAppViewer::idle: Kills on unknown objects: 6
+INFO: display_stats: FPS: 1.70
+INFO: LLCircuit::addCircuitData: LLCircuit::addCircuitData for 216.82.36.188:130
+00
+INFO: LLWorld::addRegion: Add region with handle: 1983518976813568 on host 216.8
+2.36.188:13000
+INFO: LLWorld::addRegion: Adding new region (1804:1194)
+INFO: LLWorld::addRegion: Host: 216.82.36.188:13000
+INFO: process_enable_simulator: simulator_enable() Enabling 216.82.36.188:13000
+with code 1788372733
+INFO: LLWorld::addRegion: Add region with handle: 1982419465186048 on host 216.8
+2.46.91:13000
+INFO: LLWorld::addRegion: Region exists, removing it
+INFO: process_enable_simulator: simulator_enable() Enabling 216.82.46.91:13000 w
+ith code 1788372733
+INFO: LLWorld::addRegion: Add region with handle: 1982419465185536 on host 216.8
+2.42.101:13016
+INFO: LLWorld::addRegion: Region exists, removing it
+INFO: process_enable_simulator: simulator_enable() Enabling 216.82.42.101:13016
+with code 1788372733
+INFO: LLWorld::addRegion: Add region with handle: 1981319953557760 on host 216.8
+2.34.49:13000
+INFO: LLWorld::addRegion: Region exists, removing it
+INFO: process_enable_simulator: simulator_enable() Enabling 216.82.34.49:13000 w
+ith code 1788372733
+INFO: LLCircuit::addCircuitData: LLCircuit::addCircuitData for 216.82.45.68:1302
+3
+INFO: LLWorld::addRegion: Add region with handle: 1983518976813312 on host 216.8
+2.45.68:13023
+INFO: LLWorld::addRegion: Adding new region (1804:1193)
+INFO: LLWorld::addRegion: Host: 216.82.45.68:13023
+INFO: process_enable_simulator: simulator_enable() Enabling 216.82.45.68:13023 w
+ith code 1788372733
+INFO: LLVOAvatarSelf::updateRegion: Region crossing took 14612.3 ms
+INFO: LLEnvironmentRequestResponder::result: Received region windlight settings
+INFO: LLAppViewer::idle: Kills on unknown objects: 13
+INFO: LLCircuitData::dumpResendCountAndReset: Circuit: 216.82.45.68:13023 resent
+ 1 packets
+INFO: LLCircuitData::dumpResendCountAndReset: Circuit: 216.82.36.188:13000 resen
+t 1 packets
+INFO: display_stats: FPS: 0.70
+INFO: FrameWatcher::tick:  slowest framerate for last 600 seconds 0.9
+2013-01-07T09:37:55Z <mem>             Avail Physical KB:       257708
+2013-01-07T09:37:55Z <mem>              Avail Virtual KB:      1057780
+2013-01-07T09:37:55Z <mem>                 Avail page KB:      2109624
+2013-01-07T09:37:55Z <mem>                CommitLimit KB:      5181312
+2013-01-07T09:37:55Z <mem>                 CommitPeak KB:      5078156
+2013-01-07T09:37:55Z <mem>                CommitTotal KB:      3071688
+2013-01-07T09:37:55Z <mem>                   HandleCount:        31778
+2013-01-07T09:37:55Z <mem>             KernelNonpaged KB:        88700
+2013-01-07T09:37:55Z <mem>                KernelPaged KB:        79360
+2013-01-07T09:37:55Z <mem>                KernelTotal KB:       168060
+2013-01-07T09:37:55Z <mem>              Page Fault Count:      3356364
+2013-01-07T09:37:55Z <mem>                   PageSize KB:            4
+2013-01-07T09:37:55Z <mem>              PagefileUsage KB:       677204
+2013-01-07T09:37:55Z <mem>          PeakPagefileUsage KB:       754960
+2013-01-07T09:37:55Z <mem>         PeakWorkingSetSize KB:       292464
+2013-01-07T09:37:55Z <mem>            Percent Memory use:           75
+2013-01-07T09:37:55Z <mem>              PhysicalAvail KB:       257696
+2013-01-07T09:37:55Z <mem>              PhysicalTotal KB:      1037824
+2013-01-07T09:37:55Z <mem>               PrivateUsage KB:       677204
+2013-01-07T09:37:55Z <mem>                  ProcessCount:          107
+2013-01-07T09:37:55Z <mem>     QuotaNonPagedPoolUsage KB:          161
+2013-01-07T09:37:55Z <mem>        QuotaPagedPoolUsage KB:          258
+2013-01-07T09:37:55Z <mem> QuotaPeakNonPagedPoolUsage KB:          955
+2013-01-07T09:37:55Z <mem>     QutaPeakPagedPoolUsage KB:          327
+2013-01-07T09:37:55Z <mem>                SystemCache KB:       161436
+2013-01-07T09:37:55Z <mem>                   ThreadCount:         1147
+2013-01-07T09:37:55Z <mem>             Total Physical KB:      1037824
+2013-01-07T09:37:55Z <mem>              Total Virtual KB:      2097024
+2013-01-07T09:37:55Z <mem>                 Total page KB:      5181312
+2013-01-07T09:37:55Z <mem>             WorkingSetSize KB:       166940
+2013-01-07T09:37:55Z <mem>                     timestamp: 2013-01-07T09:37:55.82
+Z
+
+INFO: LLViewerRegion::setSeedCapability: posting to seed https://sim9165.agni.li
+ndenlab.com:12043/cap/5f202e29-3f41-5291-d60d-d74196ca4822
+INFO: LLViewerRegion::setSeedCapability: posting to seed https://sim9734.agni.li
+ndenlab.com:12043/cap/b6edd033-e47a-211e-25ac-9235ad98d0f0
+INFO: LLFloater::closeFloater: Closing floater Map
+INFO: LLAppViewer::idleNetwork: Maxed out number of messages per frame at 400
+INFO: `anonymous-namespace'::LLEventPollResponder::LLEventPollResponder: LLEvent
+Poll initialized with sender 216.82.42.101:13016
+INFO: `anonymous-namespace'::LLEventPollResponder::start: LLEventPollResponder::
+start <19> https://sim9165.agni.lindenlab.com:12043/cap/4efa88d9-11ce-4377-920f-
+76c1d086fd27
+INFO: LLHTTPSender::setSender: LLHTTPSender::setSender 216.82.42.101:13016
+INFO: `anonymous-namespace'::LLEventPollResponder::LLEventPollResponder: LLEvent
+Poll initialized with sender 216.82.45.68:13023
+INFO: `anonymous-namespace'::LLEventPollResponder::start: LLEventPollResponder::
+start <20> https://sim9734.agni.lindenlab.com:12043/cap/ffb961e4-1ec6-da60-19e4-
+01e1e79db85f
+INFO: LLHTTPSender::setSender: LLHTTPSender::setSender 216.82.45.68:13023
+INFO: display_stats: FPS: 1.50
+INFO: LLViewerRegion::setSimulatorFeatures: <llsd>
+    <map>
+    <key>DynamicPathfindingEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshRezEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshUploadEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshXferEnabled</key>
+        <boolean>1</boolean>
+    <key>PhysicsMaterialsEnabled</key>
+        <boolean>1</boolean>
+    <key>PhysicsShapeTypes</key>
+        <map>
+        <key>convex</key>
+            <boolean>1</boolean>
+        <key>none</key>
+            <boolean>1</boolean>
+        <key>prim</key>
+            <boolean>1</boolean>
+        </map>
+    </map>
+</llsd>
+
+INFO: LLViewerRegion::setSimulatorFeatures: <llsd>
+    <map>
+    <key>DynamicPathfindingEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshRezEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshUploadEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshXferEnabled</key>
+        <boolean>1</boolean>
+    <key>PhysicsMaterialsEnabled</key>
+        <boolean>1</boolean>
+    <key>PhysicsShapeTypes</key>
+        <map>
+        <key>convex</key>
+            <boolean>1</boolean>
+        <key>none</key>
+            <boolean>1</boolean>
+        <key>prim</key>
+            <boolean>1</boolean>
+        </map>
+    </map>
+</llsd>
+
+INFO: display_stats: MEMORY: 179 MB
+INFO: LLMemory::logMemoryInfo: Current allocated physical memory(KB): 184124
+INFO: LLMemory::logMemoryInfo: Current allocated page size (KB): 677204
+INFO: LLMemory::logMemoryInfo: Current availabe physical memory(KB): 235952
+INFO: LLMemory::logMemoryInfo: Current max usable memory(KB): 420076
+INFO: LLMemory::logMemoryInfo: --- private pool information --
+INFO: LLMemory::logMemoryInfo: Total reserved (KB): 98400
+INFO: LLMemory::logMemoryInfo: Total allocated (KB): 48968
+INFO: display_stats: FPS: 7.10
+INFO: LLAppViewer::idle: Kills on unknown objects: 17
+INFO: LLWorld::removeRegion: Removing region 461056.0:305664.0
+INFO: `anonymous-namespace'::LLEventPollResponder::stop: LLEventPollResponder::s
+top     <11> https://sim10185.agni.lindenlab.com:12043/cap/fd9041df-f588-56a6-35
+2d-cfd21dc3dde8
+WARNING: LLVOCache::writeToCache: Skipping write to cache for handle 19802204419
+30240: cache not dirty
+INFO: LLMessageSystem::disableCircuit: LLMessageSystem::disableCircuit for 216.8
+2.49.51:13007
+WARNING: LLMessageSystem::disableCircuit: Couldn't find circuit code for 216.82.
+49.51:13007
+INFO: LLFloater::openFloater: Opening floater worldmap
+INFO: LLWorld::removeRegion: Removing region 461312.0:305664.0
+INFO: `anonymous-namespace'::LLEventPollResponder::stop: LLEventPollResponder::s
+top     <16> https://sim9820.agni.lindenlab.com:12043/cap/0775926f-9e69-438e-8f5
+a-551b8120025e
+INFO: LLMessageSystem::disableCircuit: LLMessageSystem::disableCircuit for 216.8
+2.45.154:13005
+WARNING: LLMessageSystem::disableCircuit: Couldn't find circuit code for 216.82.
+45.154:13005
+INFO: LLCircuitData::dumpResendCountAndReset: Circuit: 216.82.34.49:13000 resent
+ 1 packets
+INFO: LLCircuitData::dumpResendCountAndReset: Circuit: 216.82.48.65:13012 resent
+ 1 packets
+INFO: LLCircuitData::dumpResendCountAndReset: Circuit: 216.82.45.68:13023 resent
+ 1 packets
+INFO: LLCircuitData::dumpResendCountAndReset: Circuit: 216.82.46.91:13000 resent
+ 1 packets
+INFO: LLCircuitData::dumpResendCountAndReset: Circuit: 216.82.42.101:13016 resen
+t 3 packets
+INFO: LLCircuitData::dumpResendCountAndReset: Circuit: 216.82.45.154:13005 resen
+t 1 packets
+INFO: LLCircuitData::dumpResendCountAndReset: Circuit: 216.82.36.188:13000 resen
+t 1 packets
+INFO: display_stats: FPS: 10.80
+INFO: LLWorld::removeRegion: Removing region 461312.0:305920.0
+INFO: `anonymous-namespace'::LLEventPollResponder::stop: LLEventPollResponder::s
+top     <18> https://sim10055.agni.lindenlab.com:12043/cap/5692b30f-7231-0f9e-54
+52-82b3a51be4eb
+INFO: LLMessageSystem::disableCircuit: LLMessageSystem::disableCircuit for 216.8
+2.48.65:13012
+WARNING: LLMessageSystem::disableCircuit: Couldn't find circuit code for 216.82.
+48.65:13012
+INFO: LLInventoryModelBackgroundFetch::backgroundFetch: Inventory fetch complete
+d
+INFO: LLWorld::addRegion: Add region with handle: 1981319953558016 on host 216.8
+2.45.154:13005
+INFO: LLWorld::addRegion: Adding new region (1802:1194)
+INFO: LLWorld::addRegion: Host: 216.82.45.154:13005
+INFO: process_enable_simulator: simulator_enable() Enabling 216.82.45.154:13005
+with code 1788372733
+Check failed: sidestep::SIDESTEP_SUCCESS == PreamblePatcher::Patch(windows_fn_[i
+], perftools_fn_[i], &origstub_fn_[i])
